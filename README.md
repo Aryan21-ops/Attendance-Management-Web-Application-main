@@ -1,24 +1,24 @@
-# ATTENDIFY - Attendance Management Web Application
+# DocDash - Document Tracking Web Application
 
-Welcome to *ATTENDIFY*, an Attendance Management Web Application designed to simplify the process of tracking attendance for both administrators and employees. Built with ReactJS, NodeJS (Express), and MySQL, ATTENDIFY provides a seamless and intuitive interface for efficient attendance management.
+Welcome to *DOCDASH*, an Document Tracking  Web Application designed to simplify the process of tracking documents for both administrators and Users. Built with ReactJS, NodeJS (Express), and MongoDB, DOCDASH provides a seamless and intuitive interface for efficient documenttracking.
 
 ## Features
 
 ### General Features
 
-- *Home Page*: An introduction to ATTENDIFY.
+- *Home Page*: An introduction to DOCDASH.
 - *About Page*: Information about the purpose and functionality of the application.
-- *Services Page*: Describes the services offered by ATTENDIFY.
+- *Services Page*: Describes the services offered by DOCDASH.
 - *Contact Page*: Enables users to get in touch with administrators.
 
 ### User Authentication
 
 - *Signup Page*: Allows new users to create accounts.
-- *Login Page*: Secure login with two roles – Admin and Employee.
+- *Login Page*: Secure login with two roles – Admin and Users.
 
 ### Admin Dashboard
 
-- *List of Present Employees*: Display a list of employees currently present.
+- *List of Present Users*: Display a list of user currently present.
 - *Manage Team*: Organize and manage employee teams.
 - *Employee Information*: Access detailed information about each employee.
 - *Mark Attendance*: Manually mark attendance for employees.
