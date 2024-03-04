@@ -19,21 +19,17 @@ Welcome to *DOCDASH*, an Document Tracking  Web Application designed to simplify
 ### Admin Dashboard
 
 - *List of Present Users*: Display a list of user currently present.
-- *Manage Team*: Organize and manage employee teams.
-- *Employee Information*: Access detailed information about each employee.
-- *Mark Attendance*: Manually mark attendance for employees.
-- *Profile Form*: Create new employee profiles.
-- *Dark/Light Mode*: Toggle between dark and light modes.
-- *Calendar*: View important dates and events.
+- *User Information*: Access detailed information about each User.
+- *Mark Status *: Manually mark Status of document for Users.
+- *Profile Form*: Create new User profiles.
 - *FAQ Page*: Frequently Asked Questions for guidance.
 
-### Employee Dashboard
+### User Dashboard
 
-- *Attendance Marked*: View detailed attendance records.
+- *Document Recieved*: View detailed document records.
 - *Personal Information*: Access detailed personal information.
-- *Edit Form*: Allow employees to update their details.
-- *Dark/Light Mode*: Toggle between dark and light modes.
-- *Calendar*: View personal schedules and events.
+- *Edit Form*: Allow Users to update their details.
+- *Upload Document*: Allow Users to use CRUD operation for document.
 - *FAQ Page*: Access answers to common queries.
 
 ### Logout
@@ -45,7 +41,7 @@ Welcome to *DOCDASH*, an Document Tracking  Web Application designed to simplify
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Install dependencies using npm install.
-4. Set up the MySQL database and update the configuration.
+4. Set up the MongoDB database and update the configuration.
 5. Run the application using npm start.
 
-Feel free to contribute, report issues, or provide feedback! We hope ATTENDIFY makes attendance management a breeze for you.
+Feel free to contribute, report issues, or provide feedback! We hope DocDash makes Document Tracking System a breeze for you.
